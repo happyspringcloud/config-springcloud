@@ -32,3 +32,4 @@ spring:
     port: ${mq_port:5672}
     username: ${mq_id:guest}
     password: ${mq_pw:guest}
+    
